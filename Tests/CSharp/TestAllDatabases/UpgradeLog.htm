@@ -1,0 +1,293 @@
+﻿<!DOCTYPE html>
+<!-- saved from url=(0014)about:internet -->
+ <html xmlns:msxsl="urn:schemas-microsoft-com:xslt"><head><meta content="en-us" http-equiv="Content-Language" /><meta content="text/html; charset=utf-16" http-equiv="Content-Type" /><title _locID="ConversionReport0">
+          Migrationsbericht
+        </title><style> 
+                    /* Body style, for the entire document */
+                    body
+                    {
+                        background: #F3F3F4;
+                        color: #1E1E1F;
+                        font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+                        padding: 0;
+                        margin: 0;
+                    }
+
+                    /* Header1 style, used for the main title */
+                    h1
+                    {
+                        padding: 10px 0px 10px 10px;
+                        font-size: 21pt;
+                        background-color: #E2E2E2;
+                        border-bottom: 1px #C1C1C2 solid; 
+                        color: #201F20;
+                        margin: 0;
+                        font-weight: normal;
+                    }
+
+                    /* Header2 style, used for "Overview" and other sections */
+                    h2
+                    {
+                        font-size: 18pt;
+                        font-weight: normal;
+                        padding: 15px 0 5px 0;
+                        margin: 0;
+                    }
+
+                    /* Header3 style, used for sub-sections, such as project name */
+                    h3
+                    {
+                        font-weight: normal;
+                        font-size: 15pt;
+                        margin: 0;
+                        padding: 15px 0 5px 0;
+                        background-color: transparent;
+                    }
+
+                    /* Color all hyperlinks one color */
+                    a
+                    {
+                        color: #1382CE;
+                    }
+
+                    /* Table styles */ 
+                    table
+                    {
+                        border-spacing: 0 0;
+                        border-collapse: collapse;
+                        font-size: 10pt;
+                    }
+
+                    table th
+                    {
+                        background: #E7E7E8;
+                        text-align: left;
+                        text-decoration: none;
+                        font-weight: normal;
+                        padding: 3px 6px 3px 6px;
+                    }
+
+                    table td
+                    {
+                        vertical-align: top;
+                        padding: 3px 6px 5px 5px;
+                        margin: 0px;
+                        border: 1px solid #E7E7E8;
+                        background: #F7F7F8;
+                    }
+
+                    /* Local link is a style for hyperlinks that link to file:/// content, there are lots so color them as 'normal' text until the user mouse overs */
+                    .localLink
+                    {
+                        color: #1E1E1F;
+                        background: #EEEEED;
+                        text-decoration: none;
+                    }
+
+                    .localLink:hover
+                    {
+                        color: #1382CE;
+                        background: #FFFF99;
+                        text-decoration: none;
+                    }
+
+                    /* Center text, used in the over views cells that contain message level counts */ 
+                    .textCentered
+                    {
+                        text-align: center;
+                    }
+
+                    /* The message cells in message tables should take up all avaliable space */
+                    .messageCell
+                    {
+                        width: 100%;
+                    }
+
+                    /* Padding around the content after the h1 */ 
+                    #content 
+                    {
+	                    padding: 0px 12px 12px 12px; 
+                    }
+
+                    /* The overview table expands to width, with a max width of 97% */ 
+                    #overview table
+                    {
+                        width: auto;
+                        max-width: 75%; 
+                    }
+
+                    /* The messages tables are always 97% width */
+                    #messages table
+                    {
+                        width: 97%;
+                    }
+
+                    /* All Icons */
+                    .IconSuccessEncoded, .IconInfoEncoded, .IconWarningEncoded, .IconErrorEncoded
+                    {
+                        min-width:18px;
+                        min-height:18px; 
+                        background-repeat:no-repeat;
+                        background-position:center;
+                    }
+
+                    /* Success icon encoded */
+                    .IconSuccessEncoded
+                    {
+                        /* Note: Do not delete the comment below. It is used to verify the correctness of the encoded image resource below before the product is released */
+                        /* [---XsltValidateInternal-Base64EncodedImage:IconSuccess#Begin#background-image: url(data:image/png;base64,#Separator#);#End#] */
+                        background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAA7EAAAOxAGVKw4bAAABcElEQVR4Xq2TsUsCURzHv15g8ZJcBWlyiYYgCIWcb9DFRRwMW5TA2c0/QEFwFkxxUQdxVlBwCYWOi6IhWgQhBLHJUCkhLr/BW8S7gvrAg+N+v8/v+x68Z8MGy+XSCyABQAXgBgHGALoASkIIDWSLeLBetdHryMjd5IxQPWT4rn1c/P7+xxp72Cs9m5SZ0Bq2vPnbPFafK2zDvmNHypdC0BPkLlQhxJsCAhQoZwdZU5mwxh720qGo8MzTxTTKZDPCx2HoVzp6lz0Q9tKhyx0kGs8Ny+TkWRKk8lCROwEduhyg9l/6lunOPSfmH3NUH6uQ0KHLAe7JYvJjevm+DAMGJHToKtigE+vwvIidxLamb8IBY9e+C5LiXREkfho3TSd06HJA13/oh6T51MTsfQbHrsMynQ5dDihFjiK8JJAU9AKIWTp76dCVN7HWHrajmUEGvyF9nkbAE6gLIS7kTUyuf2gscLoJrElZo/Mvj+nPz/kLTmfnEwP3tB0AAAAASUVORK5CYII=);
+                    }
+
+                    /* Information icon encoded */
+                    .IconInfoEncoded
+                    {
+                        /* Note: Do not delete the comment below. It is used to verify the correctness of the encoded image resource below before the product is released */
+                        /* [---XsltValidateInternal-Base64EncodedImage:IconInformation#Begin#background-image: url(data:image/png;base64,#Separator#);#End#] */
+                        background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABHElEQVR4Xs2TsUoDQRRF7wwoziokjZUKadInhdhukR9YP8DMX1hYW+QvdsXa/QHBbcXC7W0CamWTQnclFutceIQJwwaWNLlwm5k5d94M76mmaeCrrmsLYOocY12FcxZFUeozCqKqqgYA8uevv1H6VuPxcwlfk5N92KHBxfFeCSAxxswlYAW/Xr989x/mv9gkhtyMDhcAxgzRsp7flj8B/HF1RsMXq+NZMkopaHe7lbKxQUEIGbKsYNoGn969060hZBkQex/W8oRQwsQaW2o3Ago2SVcJUzAgY3N0lTCZZm+zPS8HB51gMmS1DEYyOz9acKO1D8JWTlafKIMxdhvlfdyT94Vv5h7P8Ky7nQzACmhvKq3zk3PjW9asz9D/1oigecsioooAAAAASUVORK5CYII=);
+                    }
+
+                    /* Warning icon encoded */
+                    .IconWarningEncoded
+                    {
+                        /* Note: Do not delete the comment below. It is used to verify the correctness of the encoded image resource below before the product is released */
+                        /* [---XsltValidateInternal-Base64EncodedImage:IconWarning#Begin#background-image: url(data:image/png;base64,#Separator#);#End#] */
+                        background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAx0lEQVR4XpWSMQ7CMAxFf4xAyBMLCxMrO8dhaBcuwdCJS3RJBw7SA/QGTCxdWJgiQYWKXJWKIXHIlyw5lqr34tQgEOdcBsCOx5yZK3hCCKdYXneQkh4pEfqzLfu+wVDSyyzFoJjfz9NB+pAF+eizx2Vruts0k15mPgvS6GYvpVtQhB61IB/dk6AF6fS4Ben0uIX5odtFe8Q/eW1KvFeH4e8khT6+gm5B+t3juyDt7n0jpe+CANTd+oTUjN/U3yVaABnSUjFz/gFq44JaVSCXeQAAAABJRU5ErkJggg==);
+                    }
+
+                    /* Error icon encoded */
+                    .IconErrorEncoded
+                    {
+                        /* Note: Do not delete the comment below. It is used to verify the correctness of the encoded image resource below before the product is released */
+                        /* [---XsltValidateInternal-Base64EncodedImage:IconError#Begin#background-image: url(data:image/png;base64,#Separator#);#End#] */
+                        background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABQElEQVR4XqWTvUoEQRCE6wYPZUA80AfwAQz23uCMjA7MDRQEIzPBVEyNTQUFIw00vcQTTMzuAh/AxEQQT8HF/3G/oGGnEUGuoNnd6qoZuqltyKEsyzVJq5I6rnUp6SjGeGhESikzzlc1eL7opfuVbrqbU1Zw9NCgtQMaZpY0eNnaaL2fHusvTK5vKu7sjSS1Y4y3QUA6K3e3Mau5UFDyMP7tYF9o8cAHZv68vipoIJg971PZIZ5HiwdvYGGvFVFHmGmZ2MxwmQYPXubPl9Up0tfoMQGetXd6mRbvhBw+boZ6WF7Mbv1+GsHRk0fQmPAH1GfmZirbCfDJ61tw3Px8/8pZsPAG4jlVhcPgZ7adwNWBB68lkRQWFiTgFlbnLY3DGGM7izIJIyT/jjIvEJw6fdJTc6krDzh6aMwMP9bvDH4ADSsa9uSWVJkAAAAASUVORK5CYII=);
+                    }
+                 </style><script type="text/javascript" language="javascript"> 
+          
+            // Startup 
+            // Hook up the the loaded event for the document/window, to linkify the document content
+            var startupFunction = function() { linkifyElement("messages"); };
+            
+            if(window.attachEvent)
+            {
+              window.attachEvent('onload', startupFunction);
+            }
+            else if (window.addEventListener) 
+            {
+              window.addEventListener('load', startupFunction, false);
+            }
+            else 
+            {
+              document.addEventListener('load', startupFunction, false);
+            } 
+            
+            // Toggles the visibility of table rows with the specified name 
+            function toggleTableRowsByName(name)
+            {
+               var allRows = document.getElementsByTagName('tr');
+               for (i=0; i < allRows.length; i++)
+               {
+                  var currentName = allRows[i].getAttribute('name');
+                  if(!!currentName && currentName.indexOf(name) == 0)
+                  {
+                      var isVisible = allRows[i].style.display == ''; 
+                      isVisible ? allRows[i].style.display = 'none' : allRows[i].style.display = '';
+                  }
+               }
+            }
+            
+            function scrollToFirstVisibleRow(name) 
+            {
+               var allRows = document.getElementsByTagName('tr');
+               for (i=0; i < allRows.length; i++)
+               {
+                  var currentName = allRows[i].getAttribute('name');
+                  var isVisible = allRows[i].style.display == ''; 
+                  if(!!currentName && currentName.indexOf(name) == 0 && isVisible)
+                  {
+                     allRows[i].scrollIntoView(true); 
+                     return true; 
+                  }
+               }
+               
+               return false;
+            }
+            
+            // Linkifies the specified text content, replaces candidate links with html links 
+            function linkify(text)
+            {
+                 if(!text || 0 === text.length)
+                 {
+                     return text; 
+                 }
+
+                 // Find http, https and ftp links and replace them with hyper links 
+                 var urlLink = /(http|https|ftp)\:\/\/[a-zA-Z0-9\-\.]+(:[a-zA-Z0-9]*)?\/?([a-zA-Z0-9\-\._\?\,\/\\\+&%\$#\=~;\{\}])*/gi;
+                 
+                 return text.replace(urlLink, '<a href="$&">$&</a>') ;
+            }
+            
+            // Linkifies the specified element by ID
+            function linkifyElement(id)
+            {
+                var element = document.getElementById(id);
+                if(!!element)
+                {
+                  element.innerHTML = linkify(element.innerHTML); 
+                }
+            }
+            
+            function ToggleMessageVisibility(projectName)
+            {
+              if(!projectName || 0 === projectName.length)
+              {
+                return; 
+              }
+              
+              toggleTableRowsByName("MessageRowClass" + projectName);
+              toggleTableRowsByName('MessageRowHeaderShow' + projectName);
+              toggleTableRowsByName('MessageRowHeaderHide' + projectName); 
+            }
+            
+            function ScrollToFirstVisibleMessage(projectName)
+            {
+              if(!projectName || 0 === projectName.length)
+              {
+                return; 
+              }
+              
+              // First try the 'Show messages' row
+              if(!scrollToFirstVisibleRow('MessageRowHeaderShow' + projectName))
+              {
+                // Failed to find a visible row for 'Show messages', try an actual message row 
+                scrollToFirstVisibleRow('MessageRowClass' + projectName); 
+              }
+            }
+           </script></head><body><h1 _locID="ConversionReport">
+          Migrationsbericht - </h1><div id="content"><h2 _locID="OverviewTitle">Übersicht</h2><div id="overview"><table><tr><th></th><th _locID="ProjectTableHeader">Projekt</th><th _locID="PathTableHeader">Pfad</th><th _locID="ErrorsTableHeader">Fehler</th><th _locID="WarningsTableHeader">Warnungen</th><th _locID="MessagesTableHeader">Meldungen</th></tr><tr><td class="IconWarningEncoded" /><td><strong><a href="#Solution"><span _locID="OverviewSolutionSpan">Projektmappe</span></a></strong></td><td>TestAllDatabases.sln</td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#SolutionWarning">1</a></td><td class="textCentered"><a href="#" onclick="ScrollToFirstVisibleMessage('Solution'); return false;">2</a></td></tr><tr><td class="IconSuccessEncoded" /><td><strong><a href="#EntitySpaces.Core35">EntitySpaces.Core35</a></strong></td><td>..\..\..\EntitySpaces\EntitySpaces.Core\EntitySpaces.Core35.csproj</td><td class="textCentered"><a>0</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr><tr><td class="IconSuccessEncoded" /><td><strong><a href="#EntitySpaces.DebuggerVisualizer35">EntitySpaces.DebuggerVisualizer35</a></strong></td><td>..\..\..\EntitySpaces\EntitySpaces.DebuggerVisualizer\EntitySpaces.DebuggerVisualizer35.csproj</td><td class="textCentered"><a>0</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr><tr><td class="IconSuccessEncoded" /><td><strong><a href="#EntitySpaces.DynamicQuery35">EntitySpaces.DynamicQuery35</a></strong></td><td>..\..\..\EntitySpaces\EntitySpaces.DynamicQuery\EntitySpaces.DynamicQuery35.csproj</td><td class="textCentered"><a>0</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr><tr><td class="IconSuccessEncoded" /><td><strong><a href="#EntitySpaces.Interfaces35">EntitySpaces.Interfaces35</a></strong></td><td>..\..\..\EntitySpaces\EntitySpaces.Interfaces\EntitySpaces.Interfaces35.csproj</td><td class="textCentered"><a>0</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr><tr><td class="IconSuccessEncoded" /><td><strong><a href="#EntitySpaces.Loader35">EntitySpaces.Loader35</a></strong></td><td>..\..\..\EntitySpaces\EntitySpaces.Loader\EntitySpaces.Loader35.csproj</td><td class="textCentered"><a>0</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr><tr><td class="IconSuccessEncoded" /><td><strong><a href="#EntitySpaces.LoaderMT35">EntitySpaces.LoaderMT35</a></strong></td><td>..\..\..\EntitySpaces\EntitySpaces.LoaderMT\EntitySpaces.LoaderMT35.csproj</td><td class="textCentered"><a>0</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr><tr><td class="IconSuccessEncoded" /><td><strong><a href="#EntitySpaces.MSAccessProvider35">EntitySpaces.MSAccessProvider35</a></strong></td><td>..\..\..\EntitySpaces\Providers\EntitySpaces.MSAccessProvider\EntitySpaces.MSAccessProvider35.csproj</td><td class="textCentered"><a>0</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr><tr><td class="IconSuccessEncoded" /><td><strong><a href="#EntitySpaces.MySqlClientProvider35">EntitySpaces.MySqlClientProvider35</a></strong></td><td>..\..\..\EntitySpaces\Providers\EntitySpaces.MySqlClientProvider\EntitySpaces.MySqlClientProvider35.csproj</td><td class="textCentered"><a>0</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr><tr><td class="IconSuccessEncoded" /><td><strong><a href="#EntitySpaces.Npgsql2Provider35">EntitySpaces.Npgsql2Provider35</a></strong></td><td>..\..\..\EntitySpaces\Providers\EntitySpaces.Npgsql2Provider\EntitySpaces.Npgsql2Provider35.csproj</td><td class="textCentered"><a>0</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr><tr><td class="IconSuccessEncoded" /><td><strong><a href="#EntitySpaces.OracleClientProvider35">EntitySpaces.OracleClientProvider35</a></strong></td><td>..\..\..\EntitySpaces\Providers\EntitySpaces.OracleClientProvider\EntitySpaces.OracleClientProvider35.csproj</td><td class="textCentered"><a>0</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr><tr><td class="IconSuccessEncoded" /><td><strong><a href="#EntitySpaces.Profiler35">EntitySpaces.Profiler35</a></strong></td><td>..\..\..\EntitySpaces\EntitySpaces.Profiler\EntitySpaces.Profiler35.csproj</td><td class="textCentered"><a>0</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr><tr><td class="IconSuccessEncoded" /><td><strong><a href="#EntitySpaces.SqlClientProvider35">EntitySpaces.SqlClientProvider35</a></strong></td><td>..\..\..\EntitySpaces\Providers\EntitySpaces.SqlClientProvider\EntitySpaces.SqlClientProvider35.csproj</td><td class="textCentered"><a>0</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr><tr><td class="IconSuccessEncoded" /><td><strong><a href="#EntitySpaces.SQLiteProvider35">EntitySpaces.SQLiteProvider35</a></strong></td><td>..\..\..\EntitySpaces\Providers\EntitySpaces.SQLiteProvider\EntitySpaces.SQLiteProvider35.csproj</td><td class="textCentered"><a>0</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr><tr><td class="IconSuccessEncoded" /><td><strong><a href="#EntitySpaces.SqlServerCe4Provider_35">EntitySpaces.SqlServerCe4Provider_35</a></strong></td><td>..\..\..\EntitySpaces\Providers\EntitySpaces.SqlServerCe4Provider\EntitySpaces.SqlServerCe4Provider_35.csproj</td><td class="textCentered"><a>0</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr><tr><td class="IconSuccessEncoded" /><td><strong><a href="#EntitySpaces.SqlServerCeProvider35">EntitySpaces.SqlServerCeProvider35</a></strong></td><td>..\..\..\EntitySpaces\Providers\EntitySpaces.SqlServerCeProvider\EntitySpaces.SqlServerCeProvider35.csproj</td><td class="textCentered"><a>0</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr><tr><td class="IconSuccessEncoded" /><td><strong><a href="#EntitySpaces.SybaseSqlAnywhereProvider35">EntitySpaces.SybaseSqlAnywhereProvider35</a></strong></td><td>..\..\..\EntitySpaces\Providers\EntitySpaces.SybaseSqlAnywhereProvider\EntitySpaces.SybaseSqlAnywhereProvider35.csproj</td><td class="textCentered"><a>0</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr><tr><td class="IconSuccessEncoded" /><td><strong><a href="#EntitySpaces.VistaDB4Provider35">EntitySpaces.VistaDB4Provider35</a></strong></td><td>..\..\..\EntitySpaces\Providers\EntitySpaces.VistaDB4Provider\EntitySpaces.VistaDB4Provider35.csproj</td><td class="textCentered"><a>0</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr><tr><td class="IconSuccessEncoded" /><td><strong><a href="#EntitySpaces.VistaDBProvider35">EntitySpaces.VistaDBProvider35</a></strong></td><td>..\..\..\EntitySpaces\Providers\EntitySpaces.VistaDBProvider\EntitySpaces.VistaDBProvider35.csproj</td><td class="textCentered"><a>0</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr><tr><td class="IconSuccessEncoded" /><td><strong><a href="#TestAllDatabases">TestAllDatabases</a></strong></td><td>TestAllDatabases\TestAllDatabases.csproj</td><td class="textCentered"><a>0</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr></table></div><h2 _locID="SolutionAndProjectsTitle">Projektmappen und Projekte</h2><div id="messages"><a name="Solution" /><h3 _locID="ProjectDisplayNameHeader">Projektmappe</h3><table><tr id="SolutionHeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Meldung</th></tr><tr name="WarningRowClassSolution"><td class="IconWarningEncoded"><a name="SolutionWarning" /></td><td class="messageCell"><strong>TestAllDatabases.sln:
+        </strong><span>Visual Studio muss nicht funktionale Änderungen an diesem Projekt vornehmen, damit das Projekt in veröffentlichten Versionen von Visual Studio nach Visual Studio 2010 SP1 geöffnet werden kann, ohne dass das Verhalten von Projekten beeinflusst wird.</span></td></tr><tr name="MessageRowHeaderShowSolution"><td class="IconInfoEncoded" /><td class="messageCell"><a _locID="ShowAdditionalMessages" href="#" name="SolutionMessage" onclick="ToggleMessageVisibility('Solution'); return false;">
+          Anzeigen 2 Weitere Meldungen
+        </a></td></tr><tr name="MessageRowClassSolution" style="display: none"><td class="IconInfoEncoded"><a name="SolutionMessage" /></td><td class="messageCell"><strong>TestAllDatabases.sln:
+        </strong><span>Die Datei wurde erfolgreich als "D:\Projekte\EntitySpaces2025\Tests\CSharp\TestAllDatabases\Backup\TestAllDatabases.sln" gesichert.</span></td></tr><tr name="MessageRowClassSolution" style="display: none"><td class="IconInfoEncoded"><a name="SolutionMessage" /></td><td class="messageCell"><strong>TestAllDatabases.sln:
+        </strong><span>Die Projektmappe wurde erfolgreich migriert.</span></td></tr><tr style="display: none" name="MessageRowHeaderHideSolution"><td class="IconInfoEncoded" /><td class="messageCell"><a _locID="HideAdditionalMessages" href="#" name="SolutionMessage" onclick="ToggleMessageVisibility('Solution'); return false;">
+          Ausblenden 2 Weitere Meldungen
+        </a></td></tr></table><a name="EntitySpaces.Core35" /><h3>EntitySpaces.Core35</h3><table><tr id="EntitySpaces.Core35HeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Meldung</th></tr><tr><td class="IconInfoEncoded" /><td class="messageCell" _locID="NoMessagesRow">EntitySpaces.Core35 Keine Meldungen protokolliert.
+                  </td></tr></table><a name="EntitySpaces.DebuggerVisualizer35" /><h3>EntitySpaces.DebuggerVisualizer35</h3><table><tr id="EntitySpaces.DebuggerVisualizer35HeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Meldung</th></tr><tr><td class="IconInfoEncoded" /><td class="messageCell" _locID="NoMessagesRow">EntitySpaces.DebuggerVisualizer35 Keine Meldungen protokolliert.
+                  </td></tr></table><a name="EntitySpaces.DynamicQuery35" /><h3>EntitySpaces.DynamicQuery35</h3><table><tr id="EntitySpaces.DynamicQuery35HeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Meldung</th></tr><tr><td class="IconInfoEncoded" /><td class="messageCell" _locID="NoMessagesRow">EntitySpaces.DynamicQuery35 Keine Meldungen protokolliert.
+                  </td></tr></table><a name="EntitySpaces.Interfaces35" /><h3>EntitySpaces.Interfaces35</h3><table><tr id="EntitySpaces.Interfaces35HeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Meldung</th></tr><tr><td class="IconInfoEncoded" /><td class="messageCell" _locID="NoMessagesRow">EntitySpaces.Interfaces35 Keine Meldungen protokolliert.
+                  </td></tr></table><a name="EntitySpaces.Loader35" /><h3>EntitySpaces.Loader35</h3><table><tr id="EntitySpaces.Loader35HeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Meldung</th></tr><tr><td class="IconInfoEncoded" /><td class="messageCell" _locID="NoMessagesRow">EntitySpaces.Loader35 Keine Meldungen protokolliert.
+                  </td></tr></table><a name="EntitySpaces.LoaderMT35" /><h3>EntitySpaces.LoaderMT35</h3><table><tr id="EntitySpaces.LoaderMT35HeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Meldung</th></tr><tr><td class="IconInfoEncoded" /><td class="messageCell" _locID="NoMessagesRow">EntitySpaces.LoaderMT35 Keine Meldungen protokolliert.
+                  </td></tr></table><a name="EntitySpaces.MSAccessProvider35" /><h3>EntitySpaces.MSAccessProvider35</h3><table><tr id="EntitySpaces.MSAccessProvider35HeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Meldung</th></tr><tr><td class="IconInfoEncoded" /><td class="messageCell" _locID="NoMessagesRow">EntitySpaces.MSAccessProvider35 Keine Meldungen protokolliert.
+                  </td></tr></table><a name="EntitySpaces.MySqlClientProvider35" /><h3>EntitySpaces.MySqlClientProvider35</h3><table><tr id="EntitySpaces.MySqlClientProvider35HeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Meldung</th></tr><tr><td class="IconInfoEncoded" /><td class="messageCell" _locID="NoMessagesRow">EntitySpaces.MySqlClientProvider35 Keine Meldungen protokolliert.
+                  </td></tr></table><a name="EntitySpaces.Npgsql2Provider35" /><h3>EntitySpaces.Npgsql2Provider35</h3><table><tr id="EntitySpaces.Npgsql2Provider35HeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Meldung</th></tr><tr><td class="IconInfoEncoded" /><td class="messageCell" _locID="NoMessagesRow">EntitySpaces.Npgsql2Provider35 Keine Meldungen protokolliert.
+                  </td></tr></table><a name="EntitySpaces.OracleClientProvider35" /><h3>EntitySpaces.OracleClientProvider35</h3><table><tr id="EntitySpaces.OracleClientProvider35HeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Meldung</th></tr><tr><td class="IconInfoEncoded" /><td class="messageCell" _locID="NoMessagesRow">EntitySpaces.OracleClientProvider35 Keine Meldungen protokolliert.
+                  </td></tr></table><a name="EntitySpaces.Profiler35" /><h3>EntitySpaces.Profiler35</h3><table><tr id="EntitySpaces.Profiler35HeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Meldung</th></tr><tr><td class="IconInfoEncoded" /><td class="messageCell" _locID="NoMessagesRow">EntitySpaces.Profiler35 Keine Meldungen protokolliert.
+                  </td></tr></table><a name="EntitySpaces.SqlClientProvider35" /><h3>EntitySpaces.SqlClientProvider35</h3><table><tr id="EntitySpaces.SqlClientProvider35HeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Meldung</th></tr><tr><td class="IconInfoEncoded" /><td class="messageCell" _locID="NoMessagesRow">EntitySpaces.SqlClientProvider35 Keine Meldungen protokolliert.
+                  </td></tr></table><a name="EntitySpaces.SQLiteProvider35" /><h3>EntitySpaces.SQLiteProvider35</h3><table><tr id="EntitySpaces.SQLiteProvider35HeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Meldung</th></tr><tr><td class="IconInfoEncoded" /><td class="messageCell" _locID="NoMessagesRow">EntitySpaces.SQLiteProvider35 Keine Meldungen protokolliert.
+                  </td></tr></table><a name="EntitySpaces.SqlServerCe4Provider_35" /><h3>EntitySpaces.SqlServerCe4Provider_35</h3><table><tr id="EntitySpaces.SqlServerCe4Provider_35HeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Meldung</th></tr><tr><td class="IconInfoEncoded" /><td class="messageCell" _locID="NoMessagesRow">EntitySpaces.SqlServerCe4Provider_35 Keine Meldungen protokolliert.
+                  </td></tr></table><a name="EntitySpaces.SqlServerCeProvider35" /><h3>EntitySpaces.SqlServerCeProvider35</h3><table><tr id="EntitySpaces.SqlServerCeProvider35HeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Meldung</th></tr><tr><td class="IconInfoEncoded" /><td class="messageCell" _locID="NoMessagesRow">EntitySpaces.SqlServerCeProvider35 Keine Meldungen protokolliert.
+                  </td></tr></table><a name="EntitySpaces.SybaseSqlAnywhereProvider35" /><h3>EntitySpaces.SybaseSqlAnywhereProvider35</h3><table><tr id="EntitySpaces.SybaseSqlAnywhereProvider35HeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Meldung</th></tr><tr><td class="IconInfoEncoded" /><td class="messageCell" _locID="NoMessagesRow">EntitySpaces.SybaseSqlAnywhereProvider35 Keine Meldungen protokolliert.
+                  </td></tr></table><a name="EntitySpaces.VistaDB4Provider35" /><h3>EntitySpaces.VistaDB4Provider35</h3><table><tr id="EntitySpaces.VistaDB4Provider35HeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Meldung</th></tr><tr><td class="IconInfoEncoded" /><td class="messageCell" _locID="NoMessagesRow">EntitySpaces.VistaDB4Provider35 Keine Meldungen protokolliert.
+                  </td></tr></table><a name="EntitySpaces.VistaDBProvider35" /><h3>EntitySpaces.VistaDBProvider35</h3><table><tr id="EntitySpaces.VistaDBProvider35HeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Meldung</th></tr><tr><td class="IconInfoEncoded" /><td class="messageCell" _locID="NoMessagesRow">EntitySpaces.VistaDBProvider35 Keine Meldungen protokolliert.
+                  </td></tr></table><a name="TestAllDatabases" /><h3>TestAllDatabases</h3><table><tr id="TestAllDatabasesHeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Meldung</th></tr><tr><td class="IconInfoEncoded" /><td class="messageCell" _locID="NoMessagesRow">TestAllDatabases Keine Meldungen protokolliert.
+                  </td></tr></table></div></div></body></html>

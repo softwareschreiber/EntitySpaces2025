@@ -1,0 +1,8 @@
+D:\Projekte\EntitySpaces2025\Tests\CSharp\TestAllDatabases\TestAllDatabases\obj\Debug\net10.0-windows\TestAllDatabases.csproj.AssemblyReference.cache
+D:\Projekte\EntitySpaces2025\Tests\CSharp\TestAllDatabases\TestAllDatabases\obj\Debug\net10.0-windows\TestAllDatabases.Form1.resources
+D:\Projekte\EntitySpaces2025\Tests\CSharp\TestAllDatabases\TestAllDatabases\obj\Debug\net10.0-windows\TestAllDatabases.Properties.Resources.resources
+D:\Projekte\EntitySpaces2025\Tests\CSharp\TestAllDatabases\TestAllDatabases\obj\Debug\net10.0-windows\TestAllDatabases.csproj.GenerateResource.cache
+D:\Projekte\EntitySpaces2025\Tests\CSharp\TestAllDatabases\TestAllDatabases\obj\Debug\net10.0-windows\TestAllDatabases.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projekte\EntitySpaces2025\Tests\CSharp\TestAllDatabases\TestAllDatabases\obj\Debug\net10.0-windows\TestAllDatabases.AssemblyInfoInputs.cache
+D:\Projekte\EntitySpaces2025\Tests\CSharp\TestAllDatabases\TestAllDatabases\obj\Debug\net10.0-windows\TestAllDatabases.AssemblyInfo.cs
+D:\Projekte\EntitySpaces2025\Tests\CSharp\TestAllDatabases\TestAllDatabases\obj\Debug\net10.0-windows\TestAllDatabases.csproj.CoreCompileInputs.cache

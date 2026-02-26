@@ -1,0 +1,346 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projekte\\EntitySpaces2025\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D72C80-97AB-4DC0-AA90-63314D026B4E}|Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\TestAllDatabases.csproj|d:\\projekte\\entityspaces2025\\tests\\csharp\\testalldatabases\\testalldatabases\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D72C80-97AB-4DC0-AA90-63314D026B4E}|Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\TestAllDatabases.csproj|solutionrelative:tests\\csharp\\testalldatabases\\testalldatabases\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D72C80-97AB-4DC0-AA90-63314D026B4E}|Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\TestAllDatabases.csproj|d:\\projekte\\entityspaces2025\\tests\\csharp\\testalldatabases\\testalldatabases\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D72C80-97AB-4DC0-AA90-63314D026B4E}|Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\TestAllDatabases.csproj|solutionrelative:tests\\csharp\\testalldatabases\\testalldatabases\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D72C80-97AB-4DC0-AA90-63314D026B4E}|Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\TestAllDatabases.csproj|d:\\projekte\\entityspaces2025\\tests\\csharp\\testalldatabases\\testalldatabases\\businessobjects\\generated\\northwind\\territories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D72C80-97AB-4DC0-AA90-63314D026B4E}|Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\TestAllDatabases.csproj|solutionrelative:tests\\csharp\\testalldatabases\\testalldatabases\\businessobjects\\generated\\northwind\\territories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D72C80-97AB-4DC0-AA90-63314D026B4E}|Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\TestAllDatabases.csproj|d:\\projekte\\entityspaces2025\\tests\\csharp\\testalldatabases\\testalldatabases\\businessobjects\\generated\\northwind\\suppliers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D72C80-97AB-4DC0-AA90-63314D026B4E}|Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\TestAllDatabases.csproj|solutionrelative:tests\\csharp\\testalldatabases\\testalldatabases\\businessobjects\\generated\\northwind\\suppliers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D72C80-97AB-4DC0-AA90-63314D026B4E}|Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\TestAllDatabases.csproj|d:\\projekte\\entityspaces2025\\tests\\csharp\\testalldatabases\\testalldatabases\\businessobjects\\generated\\northwind\\shippers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D72C80-97AB-4DC0-AA90-63314D026B4E}|Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\TestAllDatabases.csproj|solutionrelative:tests\\csharp\\testalldatabases\\testalldatabases\\businessobjects\\generated\\northwind\\shippers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D72C80-97AB-4DC0-AA90-63314D026B4E}|Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\TestAllDatabases.csproj|d:\\projekte\\entityspaces2025\\tests\\csharp\\testalldatabases\\testalldatabases\\businessobjects\\generated\\northwind\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D72C80-97AB-4DC0-AA90-63314D026B4E}|Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\TestAllDatabases.csproj|solutionrelative:tests\\csharp\\testalldatabases\\testalldatabases\\businessobjects\\generated\\northwind\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D72C80-97AB-4DC0-AA90-63314D026B4E}|Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\TestAllDatabases.csproj|d:\\projekte\\entityspaces2025\\tests\\csharp\\testalldatabases\\testalldatabases\\businessobjects\\generated\\northwind\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D72C80-97AB-4DC0-AA90-63314D026B4E}|Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\TestAllDatabases.csproj|solutionrelative:tests\\csharp\\testalldatabases\\testalldatabases\\businessobjects\\generated\\northwind\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D72C80-97AB-4DC0-AA90-63314D026B4E}|Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\TestAllDatabases.csproj|d:\\projekte\\entityspaces2025\\tests\\csharp\\testalldatabases\\testalldatabases\\businessobjects\\generated\\northwind\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D72C80-97AB-4DC0-AA90-63314D026B4E}|Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\TestAllDatabases.csproj|solutionrelative:tests\\csharp\\testalldatabases\\testalldatabases\\businessobjects\\generated\\northwind\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D72C80-97AB-4DC0-AA90-63314D026B4E}|Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\TestAllDatabases.csproj|d:\\projekte\\entityspaces2025\\tests\\csharp\\testalldatabases\\testalldatabases\\businessobjects\\generated\\northwind\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D72C80-97AB-4DC0-AA90-63314D026B4E}|Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\TestAllDatabases.csproj|solutionrelative:tests\\csharp\\testalldatabases\\testalldatabases\\businessobjects\\generated\\northwind\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D72C80-97AB-4DC0-AA90-63314D026B4E}|Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\TestAllDatabases.csproj|d:\\projekte\\entityspaces2025\\tests\\csharp\\testalldatabases\\testalldatabases\\businessobjects\\generated\\northwind\\employeeterritories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D72C80-97AB-4DC0-AA90-63314D026B4E}|Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\TestAllDatabases.csproj|solutionrelative:tests\\csharp\\testalldatabases\\testalldatabases\\businessobjects\\generated\\northwind\\employeeterritories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D72C80-97AB-4DC0-AA90-63314D026B4E}|Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\TestAllDatabases.csproj|d:\\projekte\\entityspaces2025\\tests\\csharp\\testalldatabases\\testalldatabases\\businessobjects\\generated\\northwind\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D72C80-97AB-4DC0-AA90-63314D026B4E}|Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\TestAllDatabases.csproj|solutionrelative:tests\\csharp\\testalldatabases\\testalldatabases\\businessobjects\\generated\\northwind\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D72C80-97AB-4DC0-AA90-63314D026B4E}|Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\TestAllDatabases.csproj|d:\\projekte\\entityspaces2025\\tests\\csharp\\testalldatabases\\testalldatabases\\businessobjects\\generated\\northwind\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D72C80-97AB-4DC0-AA90-63314D026B4E}|Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\TestAllDatabases.csproj|solutionrelative:tests\\csharp\\testalldatabases\\testalldatabases\\businessobjects\\generated\\northwind\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D72C80-97AB-4DC0-AA90-63314D026B4E}|Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\TestAllDatabases.csproj|d:\\projekte\\entityspaces2025\\tests\\csharp\\testalldatabases\\testalldatabases\\businessobjects\\generated\\northwind\\customerdemographics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D72C80-97AB-4DC0-AA90-63314D026B4E}|Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\TestAllDatabases.csproj|solutionrelative:tests\\csharp\\testalldatabases\\testalldatabases\\businessobjects\\generated\\northwind\\customerdemographics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D72C80-97AB-4DC0-AA90-63314D026B4E}|Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\TestAllDatabases.csproj|d:\\projekte\\entityspaces2025\\tests\\csharp\\testalldatabases\\testalldatabases\\businessobjects\\generated\\northwind\\customercustomerdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D72C80-97AB-4DC0-AA90-63314D026B4E}|Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\TestAllDatabases.csproj|solutionrelative:tests\\csharp\\testalldatabases\\testalldatabases\\businessobjects\\generated\\northwind\\customercustomerdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D72C80-97AB-4DC0-AA90-63314D026B4E}|Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\TestAllDatabases.csproj|d:\\projekte\\entityspaces2025\\tests\\csharp\\testalldatabases\\testalldatabases\\businessobjects\\generated\\northwind\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D72C80-97AB-4DC0-AA90-63314D026B4E}|Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\TestAllDatabases.csproj|solutionrelative:tests\\csharp\\testalldatabases\\testalldatabases\\businessobjects\\generated\\northwind\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D72C80-97AB-4DC0-AA90-63314D026B4E}|Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\TestAllDatabases.csproj|d:\\projekte\\entityspaces2025\\tests\\csharp\\testalldatabases\\testalldatabases\\businessobjects\\generated\\multiprovider\\sqlcedesktop\\sqlcedatatypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D72C80-97AB-4DC0-AA90-63314D026B4E}|Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\TestAllDatabases.csproj|solutionrelative:tests\\csharp\\testalldatabases\\testalldatabases\\businessobjects\\generated\\multiprovider\\sqlcedesktop\\sqlcedatatypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D72C80-97AB-4DC0-AA90-63314D026B4E}|Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\TestAllDatabases.csproj|d:\\projekte\\entityspaces2025\\tests\\csharp\\testalldatabases\\testalldatabases\\businessobjects\\generated\\multiprovider\\sqlcedesktop\\guidtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D72C80-97AB-4DC0-AA90-63314D026B4E}|Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\TestAllDatabases.csproj|solutionrelative:tests\\csharp\\testalldatabases\\testalldatabases\\businessobjects\\generated\\multiprovider\\sqlcedesktop\\guidtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D72C80-97AB-4DC0-AA90-63314D026B4E}|Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\TestAllDatabases.csproj|d:\\projekte\\entityspaces2025\\tests\\csharp\\testalldatabases\\testalldatabases\\businessobjects\\generated\\multiprovider\\oracle\\oraclexmltest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D72C80-97AB-4DC0-AA90-63314D026B4E}|Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\TestAllDatabases.csproj|solutionrelative:tests\\csharp\\testalldatabases\\testalldatabases\\businessobjects\\generated\\multiprovider\\oracle\\oraclexmltest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{55f480fa-fbef-4386-8c1c-ea8d10c9f542}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\Projekte\\EntitySpaces2025\\Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\Form1.Designer.cs",
+              "ToolTip": "D:\\Projekte\\EntitySpaces2025\\Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\Form1.Designer.cs",
+              "RelativeToolTip": "Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T13:55:13.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Projekte\\EntitySpaces2025\\Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\Form1.cs",
+              "RelativeDocumentMoniker": "Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\Form1.cs",
+              "ToolTip": "D:\\Projekte\\EntitySpaces2025\\Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\Form1.cs",
+              "RelativeToolTip": "Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T13:48:17.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Territories.cs",
+              "DocumentMoniker": "D:\\Projekte\\EntitySpaces2025\\Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\BusinessObjects\\Generated\\Northwind\\Territories.cs",
+              "RelativeDocumentMoniker": "Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\BusinessObjects\\Generated\\Northwind\\Territories.cs",
+              "ToolTip": "D:\\Projekte\\EntitySpaces2025\\Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\BusinessObjects\\Generated\\Northwind\\Territories.cs",
+              "RelativeToolTip": "Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\BusinessObjects\\Generated\\Northwind\\Territories.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwCwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T13:48:12.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Suppliers.cs",
+              "DocumentMoniker": "D:\\Projekte\\EntitySpaces2025\\Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\BusinessObjects\\Generated\\Northwind\\Suppliers.cs",
+              "RelativeDocumentMoniker": "Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\BusinessObjects\\Generated\\Northwind\\Suppliers.cs",
+              "ToolTip": "D:\\Projekte\\EntitySpaces2025\\Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\BusinessObjects\\Generated\\Northwind\\Suppliers.cs",
+              "RelativeToolTip": "Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\BusinessObjects\\Generated\\Northwind\\Suppliers.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwCwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T13:48:06.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Shippers.cs",
+              "DocumentMoniker": "D:\\Projekte\\EntitySpaces2025\\Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\BusinessObjects\\Generated\\Northwind\\Shippers.cs",
+              "RelativeDocumentMoniker": "Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\BusinessObjects\\Generated\\Northwind\\Shippers.cs",
+              "ToolTip": "D:\\Projekte\\EntitySpaces2025\\Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\BusinessObjects\\Generated\\Northwind\\Shippers.cs",
+              "RelativeToolTip": "Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\BusinessObjects\\Generated\\Northwind\\Shippers.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwCwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T13:48:00.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Region.cs",
+              "DocumentMoniker": "D:\\Projekte\\EntitySpaces2025\\Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\BusinessObjects\\Generated\\Northwind\\Region.cs",
+              "RelativeDocumentMoniker": "Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\BusinessObjects\\Generated\\Northwind\\Region.cs",
+              "ToolTip": "D:\\Projekte\\EntitySpaces2025\\Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\BusinessObjects\\Generated\\Northwind\\Region.cs",
+              "RelativeToolTip": "Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\BusinessObjects\\Generated\\Northwind\\Region.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwCwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T13:47:54.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Products.cs",
+              "DocumentMoniker": "D:\\Projekte\\EntitySpaces2025\\Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\BusinessObjects\\Generated\\Northwind\\Products.cs",
+              "RelativeDocumentMoniker": "Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\BusinessObjects\\Generated\\Northwind\\Products.cs",
+              "ToolTip": "D:\\Projekte\\EntitySpaces2025\\Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\BusinessObjects\\Generated\\Northwind\\Products.cs",
+              "RelativeToolTip": "Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\BusinessObjects\\Generated\\Northwind\\Products.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwCwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T13:47:49.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Orders.cs",
+              "DocumentMoniker": "D:\\Projekte\\EntitySpaces2025\\Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\BusinessObjects\\Generated\\Northwind\\Orders.cs",
+              "RelativeDocumentMoniker": "Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\BusinessObjects\\Generated\\Northwind\\Orders.cs",
+              "ToolTip": "D:\\Projekte\\EntitySpaces2025\\Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\BusinessObjects\\Generated\\Northwind\\Orders.cs",
+              "RelativeToolTip": "Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\BusinessObjects\\Generated\\Northwind\\Orders.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwCwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T13:47:42.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderDetails.cs",
+              "DocumentMoniker": "D:\\Projekte\\EntitySpaces2025\\Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\BusinessObjects\\Generated\\Northwind\\OrderDetails.cs",
+              "RelativeDocumentMoniker": "Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\BusinessObjects\\Generated\\Northwind\\OrderDetails.cs",
+              "ToolTip": "D:\\Projekte\\EntitySpaces2025\\Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\BusinessObjects\\Generated\\Northwind\\OrderDetails.cs",
+              "RelativeToolTip": "Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\BusinessObjects\\Generated\\Northwind\\OrderDetails.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAkwI4AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T13:46:38.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmployeeTerritories.cs",
+              "DocumentMoniker": "D:\\Projekte\\EntitySpaces2025\\Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\BusinessObjects\\Generated\\Northwind\\EmployeeTerritories.cs",
+              "RelativeDocumentMoniker": "Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\BusinessObjects\\Generated\\Northwind\\EmployeeTerritories.cs",
+              "ToolTip": "D:\\Projekte\\EntitySpaces2025\\Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\BusinessObjects\\Generated\\Northwind\\EmployeeTerritories.cs",
+              "RelativeToolTip": "Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\BusinessObjects\\Generated\\Northwind\\EmployeeTerritories.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAkwHYAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T13:46:24.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Employees.cs",
+              "DocumentMoniker": "D:\\Projekte\\EntitySpaces2025\\Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\BusinessObjects\\Generated\\Northwind\\Employees.cs",
+              "RelativeDocumentMoniker": "Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\BusinessObjects\\Generated\\Northwind\\Employees.cs",
+              "ToolTip": "D:\\Projekte\\EntitySpaces2025\\Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\BusinessObjects\\Generated\\Northwind\\Employees.cs",
+              "RelativeToolTip": "Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\BusinessObjects\\Generated\\Northwind\\Employees.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAkwPQAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T13:46:13.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Customers.cs",
+              "DocumentMoniker": "D:\\Projekte\\EntitySpaces2025\\Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\BusinessObjects\\Generated\\Northwind\\Customers.cs",
+              "RelativeDocumentMoniker": "Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\BusinessObjects\\Generated\\Northwind\\Customers.cs",
+              "ToolTip": "D:\\Projekte\\EntitySpaces2025\\Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\BusinessObjects\\Generated\\Northwind\\Customers.cs",
+              "RelativeToolTip": "Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\BusinessObjects\\Generated\\Northwind\\Customers.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAkwLwAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T13:46:01.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CustomerDemographics.cs",
+              "DocumentMoniker": "D:\\Projekte\\EntitySpaces2025\\Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\BusinessObjects\\Generated\\Northwind\\CustomerDemographics.cs",
+              "RelativeDocumentMoniker": "Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\BusinessObjects\\Generated\\Northwind\\CustomerDemographics.cs",
+              "ToolTip": "D:\\Projekte\\EntitySpaces2025\\Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\BusinessObjects\\Generated\\Northwind\\CustomerDemographics.cs",
+              "RelativeToolTip": "Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\BusinessObjects\\Generated\\Northwind\\CustomerDemographics.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAkwHQAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T13:45:46.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CustomerCustomerDemo.cs",
+              "DocumentMoniker": "D:\\Projekte\\EntitySpaces2025\\Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\BusinessObjects\\Generated\\Northwind\\CustomerCustomerDemo.cs",
+              "RelativeDocumentMoniker": "Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\BusinessObjects\\Generated\\Northwind\\CustomerCustomerDemo.cs",
+              "ToolTip": "D:\\Projekte\\EntitySpaces2025\\Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\BusinessObjects\\Generated\\Northwind\\CustomerCustomerDemo.cs",
+              "RelativeToolTip": "Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\BusinessObjects\\Generated\\Northwind\\CustomerCustomerDemo.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAIA9wHYAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T13:45:33.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Categories.cs",
+              "DocumentMoniker": "D:\\Projekte\\EntitySpaces2025\\Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\BusinessObjects\\Generated\\Northwind\\Categories.cs",
+              "RelativeDocumentMoniker": "Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\BusinessObjects\\Generated\\Northwind\\Categories.cs",
+              "ToolTip": "D:\\Projekte\\EntitySpaces2025\\Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\BusinessObjects\\Generated\\Northwind\\Categories.cs",
+              "RelativeToolTip": "Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\BusinessObjects\\Generated\\Northwind\\Categories.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAIA9wIQAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T13:45:10.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SqlCeDataTypes.cs",
+              "DocumentMoniker": "D:\\Projekte\\EntitySpaces2025\\Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\BusinessObjects\\Generated\\MultiProvider\\SqlCeDesktop\\SqlCeDataTypes.cs",
+              "RelativeDocumentMoniker": "Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\BusinessObjects\\Generated\\MultiProvider\\SqlCeDesktop\\SqlCeDataTypes.cs",
+              "ToolTip": "D:\\Projekte\\EntitySpaces2025\\Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\BusinessObjects\\Generated\\MultiProvider\\SqlCeDesktop\\SqlCeDataTypes.cs",
+              "RelativeToolTip": "Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\BusinessObjects\\Generated\\MultiProvider\\SqlCeDesktop\\SqlCeDataTypes.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAIAwwCsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T13:45:05.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GuidTest.cs",
+              "DocumentMoniker": "D:\\Projekte\\EntitySpaces2025\\Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\BusinessObjects\\Generated\\MultiProvider\\SqlCeDesktop\\GuidTest.cs",
+              "RelativeDocumentMoniker": "Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\BusinessObjects\\Generated\\MultiProvider\\SqlCeDesktop\\GuidTest.cs",
+              "ToolTip": "D:\\Projekte\\EntitySpaces2025\\Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\BusinessObjects\\Generated\\MultiProvider\\SqlCeDesktop\\GuidTest.cs",
+              "RelativeToolTip": "Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\BusinessObjects\\Generated\\MultiProvider\\SqlCeDesktop\\GuidTest.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAIAwwCsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T13:45:00.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OracleXmlTest.cs",
+              "DocumentMoniker": "D:\\Projekte\\EntitySpaces2025\\Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\BusinessObjects\\Generated\\MultiProvider\\Oracle\\OracleXmlTest.cs",
+              "RelativeDocumentMoniker": "Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\BusinessObjects\\Generated\\MultiProvider\\Oracle\\OracleXmlTest.cs",
+              "ToolTip": "D:\\Projekte\\EntitySpaces2025\\Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\BusinessObjects\\Generated\\MultiProvider\\Oracle\\OracleXmlTest.cs",
+              "RelativeToolTip": "Tests\\CSharp\\TestAllDatabases\\TestAllDatabases\\BusinessObjects\\Generated\\MultiProvider\\Oracle\\OracleXmlTest.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAIAwwCsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T13:44:55.793Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
