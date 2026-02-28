@@ -42,14 +42,14 @@ namespace EntitySpaces.MySQLProvider
     {
         static public MySqlCommand BuildDynamicInsertCommand(esDataRequest request, List<string> modifiedColumns)
         {
-            string sql = String.Empty;
-            string defaults = String.Empty;
-            string into = String.Empty;
-            string values = String.Empty;
-            string comma = String.Empty;
+            string sql          = String.Empty;
+            string defaults     = String.Empty;
+            string into         = String.Empty;
+            string values       = String.Empty;
+            string comma        = String.Empty;
             string defaultComma = String.Empty;
-            string where = String.Empty;
-            string whereComma = String.Empty;
+            string where        = String.Empty;
+            string whereComma   = String.Empty;
 
             PropertyCollection props = new PropertyCollection();
             MySqlParameter p = null;
