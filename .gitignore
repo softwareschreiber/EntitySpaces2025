@@ -1,0 +1,9 @@
+﻿################################################################################
+# Diese .gitignore-Datei wurde von Microsoft(R) Visual Studio automatisch erstellt.
+################################################################################
+
+/EntitySpaces.ORM.MySQL/bin/x64
+/EntitySpaces.ORM.MySQL/obj/Debug
+/EntitySpaces.ORM.MySQL/obj/Release
+/EntitySpaces.ORM.MySQL/obj/x64
+/EntitySpaces.ORM.MySQL/obj
