@@ -7,22 +7,23 @@
 	  <Version>2025.2.0</Version>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Description>EntitySpaces in .NET Standard Mode for MySQL (single assembly install) fork from mikegriffin project and mattphi in github</Description>
-    <PackageProjectUrl>https://github.com/paulcordova/EntitySpaces/</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/softwareschreiber/EntitySpaces2025/</PackageProjectUrl>
     <PackageTags>EntitySpaces, ORM, MySQL</PackageTags>
-    <PackageReleaseNotes>Updated version for net 8-9 and .NetFramework 4.8.</PackageReleaseNotes>
+    <PackageReleaseNotes>Updated version for net 10</PackageReleaseNotes>
     <Product>EntitySpaces ORM for Mysql</Product>
     <PackageIcon>esIcon.png</PackageIcon>
     <RepositoryType>GitHub</RepositoryType>
-    <RepositoryUrl>https://github.com/paulcordova/EntitySpaces</RepositoryUrl>
-	<Title>EntitySpaces.ORM.MySQL.NET for Net 8-9 and 4.8</Title>
+    <RepositoryUrl>https://github.com/softwareschreiber/EntitySpaces2025</RepositoryUrl>
+	<Title>EntitySpaces.ORM.MySQL.NET for Net10</Title>
 	<PackageId>$(AssemblyName)</PackageId>
-    <Authors>$(AssemblyName) paulcordova</Authors>
+    <Authors>$(AssemblyName) paulcordova softwareschreiber</Authors>
     <PackageIconUrl />
-    <Company />
+    <Company>Hartmut Schreiber</Company>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <SignAssembly>true</SignAssembly>
     <AssemblyOriginatorKeyFile>EntitySpaces.snk</AssemblyOriginatorKeyFile>
     <Platforms>AnyCPU;x64;ARM64</Platforms>
+    <RunAnalyzersDuringBuild>False</RunAnalyzersDuringBuild>
   </PropertyGroup>
 
 
@@ -146,7 +147,7 @@
 
 
 	<ItemGroup>
-	  <PackageReference Include="Google.Protobuf" Version="3.33.5" />
+	  <PackageReference Include="Google.Protobuf" Version="3.34.0" />
 	  <PackageReference Include="SSH.NET" Version="2025.1.0" />
 	</ItemGroup>
 
