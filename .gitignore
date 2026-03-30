@@ -7,3 +7,5 @@
 /EntitySpaces.ORM.MySQL/obj/Release
 /EntitySpaces.ORM.MySQL/obj/x64
 /EntitySpaces.ORM.MySQL/obj
+*.dll
+*.pdb
