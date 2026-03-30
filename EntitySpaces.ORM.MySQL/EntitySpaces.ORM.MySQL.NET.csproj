@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFrameworks>net10.0</TargetFrameworks>
+    <TargetFrameworks>net10.0-windows10.0.20348.0</TargetFrameworks>
 	  <AssemblyVersion>2025.2.0</AssemblyVersion>
 	  <FileVersion>2025.2.0</FileVersion>
 	  <Version>2025.2.0</Version>
