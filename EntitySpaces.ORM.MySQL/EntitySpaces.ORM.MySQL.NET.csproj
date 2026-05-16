@@ -113,7 +113,7 @@
 
     <ItemGroup>
 	    <PackageReference Include="MySql.Data" Version="9.7.0" />
-	    <PackageReference Include="System.Configuration.ConfigurationManager" Version="10.0.7" />
+	    <PackageReference Include="System.Configuration.ConfigurationManager" Version="10.0.8" />
     </ItemGroup>
 
 
