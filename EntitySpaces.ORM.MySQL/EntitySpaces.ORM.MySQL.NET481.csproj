@@ -1,10 +1,9 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFrameworks>net10.0</TargetFrameworks>
-	  <AssemblyVersion>2025.2.0</AssemblyVersion>
-	  <FileVersion>2025.2.0</FileVersion>
-	  <Version>2025.2.0</Version>
+	<AssemblyVersion>2025.2.0</AssemblyVersion>
+	<FileVersion>2025.2.0</FileVersion>
+	<Version>2025.2.0</Version>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Description>EntitySpaces in .NET Standard Mode for MySQL (single assembly install) fork from mikegriffin project and mattphi in github</Description>
     <PackageProjectUrl>https://github.com/softwareschreiber/EntitySpaces2025/</PackageProjectUrl>
@@ -25,7 +24,7 @@
     <Platforms>AnyCPU;x64</Platforms>
     <RunAnalyzersDuringBuild>False</RunAnalyzersDuringBuild>
     <OutputType>Library</OutputType>
-    <TargetFramework>net10.0</TargetFramework>
+    <TargetFramework>v4.8.1</TargetFramework>
   </PropertyGroup>
 
 
@@ -113,7 +112,7 @@
 
     <ItemGroup>
 	    <PackageReference Include="MySql.Data" Version="26.7.0" />
-   	    <PackageReference Include="System.Configuration.ConfigurationManager" Version="10.0.10" />
+	    <PackageReference Include="System.Configuration.ConfigurationManager" Version="10.0.11" />
     </ItemGroup>
 
 
