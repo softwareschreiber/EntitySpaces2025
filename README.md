@@ -1,7 +1,9 @@
 
 <img src="https://repository-images.githubusercontent.com/194275145/55b5b080-1ccf-11ea-8609-15b9de0d2351" alt="EntitySpaces" width="531" height="268">
 
-Supports .NET 6, 7, 8, 9 and .NET Framework 4.8
+Supports .NET 6, 7, 8, 9, 10 and .NET Framework 4.8
+
+Forked from https://github.com/MikeGriffinReborn/EntitySpaces
 
 Available on Nuget for 
 - [SqlServer](https://www.nuget.org/packages/EntitySpaces.ORM.SqlServer.NET/ "NuGet")
@@ -15,24 +17,21 @@ Click here for the [Glossy Site ...](https://mikegriffinreborn.github.io/EntityS
 
 See [Mike's Blog EntitySpaces creator](https://saltycode.blogspot.com/) for EntitySpaces
 
-I'm Paul Córdova, and I love this ORM for working on real projects with tight deadlines.
+See Paul Córdovas Site (https://github.com/paulcordova/EntitySpaces) with new Development of EntitySpaces
 
+Paul wrote:
+
+"I'm Paul Córdova, and I love this ORM for working on real projects with tight deadlines.
 I started using EntitySpaces a long time ago when it was still a commercial product. Back then, I used it to build a system for managing bulk wine applications, and everything worked smoothly. My team focused on business rules and database modeling, while EntitySpaces handled the complex database access and ensured consistency when multiple entities needed to update their changes.
-
 I was disappointed when its development stopped years ago, but in 2019, I was thrilled to discover that Mike had open-sourced the project. My small contribution has been helping bring EntitySpaces back to life with modern .NET versions.
-
 Its internal structure is very well designed, and the biggest challenge was adapting it to the correct .NET libraries depending on the database engine. Recompiling and testing for SQL Server and MySQL was relatively easy, while PostgreSQL and Oracle required more effort. I successfully used the modernized SQL Server version in a real project with .NET 7, and it worked perfectly—just as I remembered from my winery project.
-
 I know there are other great ORM alternatives out there, but I truly believe EntitySpaces has a second chance to be used again.
-
 The key benefits I've found are:
-
 Faster setup to start working on real business problems.
 Writing only the logic necessary for the business, without worrying about database access.
 Easy code adaptation for database changes—let the compiler handle it.
 I'm in contact with Mike on LinkedIn, and he was very happy to hear that I modernized EntitySpaces. That meant a lot to me.
-
-I hope my small contribution makes life easier for other developers out there—happy coding! 😊
+I hope my small contribution makes life easier for other developers out there—happy coding! 😊"
 
 
 # EntitySpaces - A Fluent SQL API
@@ -1162,7 +1161,7 @@ Typical syntax is **OVER**( **PARTITION BY** 'clause' **ORDER BY** 'clause' **RO
 
 # Setup
 
-1. Install [EntitySpaces Studio 2024](https://github.com/paulcordova/EntitySpaces/blob/master/EntitySpaces.Studio/EntitySpacesStudio_2024.8.30.0.zip/ "Zip File")
+1. Install [EntitySpaces Studio 2024](https://github.com/paulcordova/EntitySpaces/blob/master/EntitySpaces.Studio/EntitySpacesStudio_2026.7.30.0.zip/ "Zip File")
 
 ## NuGet Package(s)
 
