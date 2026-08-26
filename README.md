@@ -1160,8 +1160,11 @@ Typical syntax is **OVER**( **PARTITION BY** 'clause' **ORDER BY** 'clause' **RO
 
 
 # Setup
+Always use the most recent version of **EntitySpaces Studio**.
 
-1. Install [EntitySpaces Studio 2024](https://github.com/paulcordova/EntitySpaces/blob/master/EntitySpaces.Studio/EntitySpacesStudio_2026.7.30.0.zip/ "Zip File")
+- Get it from the repo: [EntitySpaces.Studio](https://github.com/paulcordova/EntitySpaces/tree/master/EntitySpaces.Studio)
+- Download the **most recent** `.zip` — avoid any file tagged `-deprecated`, that build is kept for reference only.
+- Connect to your database under Settings → Connection, then run the Generated and Custom class templates.
 
 ## NuGet Package(s)
 
